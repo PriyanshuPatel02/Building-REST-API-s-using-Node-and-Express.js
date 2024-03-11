@@ -27,7 +27,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/priyanshuoatel02/Building-REST-API-s-using-Node-and-Express.js.git
 # Install Dependencies:
 - cd your-repository
 - npm install
