@@ -29,8 +29,8 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    git clone https://github.com/your-username/your-repository.git
 # Install Dependencies:
-cd your-repository
-npm install
+- cd your-repository
+- npm install
 
 
 
@@ -39,9 +39,9 @@ Once the application is running, you can interact with the APIs using tools like
 
 Example API endpoints:
 
-GET /api/users: Retrieve all users.
-GET /api/users/:id: Retrieve a specific user by ID.
-POST /api/users: Create a new user.
-PUT /api/users/:id: Update an existing user.
-DELETE /api/users/:id: Delete a user.
-Make sure to replace :id with the actual ID of the user you want to retrieve, update, or delete.
+- GET /api/users: Retrieve all users.
+- GET /api/users/:id: Retrieve a specific user by ID.
+- POST /api/users: Create a new user.
+- PUT /api/users/:id: Update an existing user.
+- DELETE /api/users/:id: Delete a user.
+- Make sure to replace :id with the actual ID of the user you want to retrieve, update, or delete.
